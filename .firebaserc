@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "build-pure-firebase-chat"
+  }
+}
